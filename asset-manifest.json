@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/simon/static/css/main.85837ba3.css",
+    "main.js": "/simon/static/js/main.fdb00c20.js",
+    "static/js/787.123358da.chunk.js": "/simon/static/js/787.123358da.chunk.js",
+    "static/media/simon-picture.png": "/simon/static/media/simon-picture.e71fceb4c77c3b164696.png",
+    "static/media/c-13.jpeg": "/simon/static/media/c-13.f4c92c20b54d55531ff7.jpeg",
+    "static/media/c-21.jpeg": "/simon/static/media/c-21.d15d636a7f13ecc39745.jpeg",
+    "static/media/c-1.jpeg": "/simon/static/media/c-1.a9b2561a36054485a374.jpeg",
+    "static/media/c-19.jpeg": "/simon/static/media/c-19.b2d7053bf09fb47cf04a.jpeg",
+    "static/media/c-2.jpeg": "/simon/static/media/c-2.4351e4c79be0993a5b76.jpeg",
+    "static/media/c-5.jpeg": "/simon/static/media/c-5.9d780ea610c093f6f10a.jpeg",
+    "static/media/c-4.jpeg": "/simon/static/media/c-4.16ffc6a357344fc282e2.jpeg",
+    "static/media/c-11.jpeg": "/simon/static/media/c-11.7d683027cc74bdf9a4b6.jpeg",
+    "static/media/c-8.jpeg": "/simon/static/media/c-8.9c983090d35f143b4c7b.jpeg",
+    "static/media/visitka.png": "/simon/static/media/visitka.277dcd4e4fe9136a46ab.png",
+    "static/media/c-10.jpeg": "/simon/static/media/c-10.a91eed567a9f81a3fc68.jpeg",
+    "static/media/c-3.jpeg": "/simon/static/media/c-3.4bbefcde0fb8e12852b6.jpeg",
+    "static/media/c-18.jpeg": "/simon/static/media/c-18.3a678d437858c0dd5002.jpeg",
+    "static/media/c-15.jpeg": "/simon/static/media/c-15.3c3b006ef38a8ae9f670.jpeg",
+    "static/media/c-9.jpeg": "/simon/static/media/c-9.7c09ace1fd9254403aa9.jpeg",
+    "static/media/c-7.jpeg": "/simon/static/media/c-7.14f49e30571af4101ed5.jpeg",
+    "static/media/c-17.jpeg": "/simon/static/media/c-17.bf82872d09a1ee57140d.jpeg",
+    "static/media/c-6.jpeg": "/simon/static/media/c-6.084fe88897124f670f95.jpeg",
+    "static/media/c-14.jpeg": "/simon/static/media/c-14.b1e44aa297ef7085673f.jpeg",
+    "static/media/c-20.jpeg": "/simon/static/media/c-20.c69f371c0e2c83c8e9e7.jpeg",
+    "static/media/c-16.jpeg": "/simon/static/media/c-16.fc7600c8cac628aab5d4.jpeg",
+    "index.html": "/simon/index.html",
+    "main.85837ba3.css.map": "/simon/static/css/main.85837ba3.css.map",
+    "main.fdb00c20.js.map": "/simon/static/js/main.fdb00c20.js.map",
+    "787.123358da.chunk.js.map": "/simon/static/js/787.123358da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85837ba3.css",
+    "static/js/main.fdb00c20.js"
+  ]
+}
