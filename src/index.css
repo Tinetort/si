@@ -1,0 +1,16 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300;1,800&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background: linear-gradient(to bottom, white, rgb(198, 198, 198));
+}
+ul {
+    list-style: none;
+}
+
+ul li:before {
+    content:  "—";
+    position: relative;
+    left:     -5px;
+}

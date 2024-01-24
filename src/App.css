@@ -1,0 +1,18 @@
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, h1, h2, h3, p {
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 767px) {
+  .text-light .fs-1 {
+      font-size: 16px; /* Размер шрифта для мобильных устройств */
+  }
+}
+
