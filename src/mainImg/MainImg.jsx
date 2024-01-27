@@ -1,5 +1,6 @@
 import { Container, Row, Col, Image } from 'react-bootstrap'
 import bgImage from '../images/visitka.png'
+// import './MainImg.css'
 
 function MainImg() {
     return (
@@ -9,9 +10,7 @@ function MainImg() {
                     <Col className="text-center">
                         <Image className='rounded' fluid src={bgImage} alt="simon" width="100%" />
                         <div className="position-absolute top-50 start-50 translate-middle text-white">
-                            {/* <h1>Simon Handyman</h1>
-                            <h3>Your local handyman.</h3>
-                            <p>Proudly work in San Diego, CA</p> */}
+                        <h1 className="visually-hidden">Simon Handyman</h1>
                         </div>
                     </Col>
                 </div>
