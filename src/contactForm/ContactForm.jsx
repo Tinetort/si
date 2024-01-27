@@ -15,7 +15,7 @@ function ContactForm() {
                     placeholder || name.toLowerCase()
                 }`}
                 isInvalid={state.errors?.[name] && state.touched?.[name]}
-                required={name === 'email'}
+                required={name !== 'requestDetails'}
             />
             <ValidationError
                 prefix={label}
