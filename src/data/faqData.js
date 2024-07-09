@@ -1,7 +1,7 @@
 const faqData = [
     {
         question: 'How much do you charge per services?',
-        answer: 'We charge per hour. Hourly rate is $85 per hour not including materials (if needed)',
+        answer: 'We charge per hour. Hourly rate is $75 per hour not including materials (if needed)',
     },
     {
         question: 'How may I receive a quote for my project?',
@@ -9,7 +9,7 @@ const faqData = [
     },
     {
         question: 'Do you have a license and an insurance?',
-        answer: 'Please send us some pictures with details of what you need to be done and we’ll provide an estimate quickly!',
+        answer: 'There is no license for Handyman in California. We have our Liability insurance.',
     },
     {
         question: 'Do you work on Weekends and Holidays?',
